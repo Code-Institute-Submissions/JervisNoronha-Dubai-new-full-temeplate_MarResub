@@ -83,5 +83,34 @@ animation-fill-mode: forwards;
 
 #information{
     height: 600px;
+    text-align: center;
+    font-size: 200%;
 }
 
+/* footer*/
+
+footer{
+    height: 150px;
+}
+
+.social-networks{
+    text-align: right;
+    }
+
+.social-networks > li {
+      display: inline;
+}
+
+.social-networks i {
+    font-size: 200%;
+    margin: 10px;
+    color: black;
+}
+
+#photos {
+    clear: both;
+}
+
+#photos > img {
+width: 100%;
+}
