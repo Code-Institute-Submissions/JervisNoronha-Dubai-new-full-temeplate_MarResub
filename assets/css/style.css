@@ -85,6 +85,7 @@ animation-fill-mode: forwards;
     height: 600px;
     text-align: center;
     font-size: 200%;
+    color: blue;
 }
 
 /* footer*/
@@ -114,4 +115,6 @@ footer{
 #photos > img {
 width: 100%;
 }
+
+/* history*/
 
