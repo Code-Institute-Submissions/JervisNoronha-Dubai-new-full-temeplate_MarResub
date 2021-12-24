@@ -118,7 +118,21 @@ width: 100%;
 
 
 img{
-    float: right;
+    float: left;
     margin: 10px;
 }
 
+#visit {
+    height: 600px;
+    text-align: center;
+    font-size: 100%;
+    color: darkgreen;
+}
+
+#history {
+    color: DarkGreen;
+}
+
+body{
+    background-color: cadetblue;
+}
