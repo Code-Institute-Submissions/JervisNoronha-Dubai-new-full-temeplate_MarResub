@@ -120,17 +120,21 @@ width: 100%;
 img{
     float: left;
     margin: 10px;
+    clear: left;
 }
 
 #visit {
     height: 600px;
     text-align: center;
-    font-size: 100%;
+    font-size: 150%;
     color: darkgreen;
 }
 
 #history {
     color: DarkGreen;
+    font-size: 150%;
+    clear: right;
+    float: right;
 }
 
 body{
