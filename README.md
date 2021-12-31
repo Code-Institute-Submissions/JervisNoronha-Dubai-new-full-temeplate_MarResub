@@ -21,6 +21,8 @@ The information section will allow users to see the benefits of visiting the mus
 Social media
 There will be social media links to all pages on the website. The links will open onto a new tab which will then allow users to reach, nurture and engage.
 
+
+
 Gallery 
 The photos in the gallery will deliver the visitors information of what is in the museum. This is help to capture the attention of the visitors.
 
@@ -50,7 +52,13 @@ This page will allow users to contact us if they are interested about the museum
      I used this tool to make sure my css style did not have any errors 
      (https://jigsaw.w3.org/css-validator/)
 
-     
+##### Credits
+The text from the home page was taken from tripadvisor
+The icons were taking from frontawesome 
+(https://fontawesome.com/)
+
+
+
 
 
 
