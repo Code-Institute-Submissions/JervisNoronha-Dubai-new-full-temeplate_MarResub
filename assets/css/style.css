@@ -126,14 +126,14 @@ img{
 }
 
 #visit {
-    height: 600px;
     text-align: center;
     font-size: 150%;
-    color: darkgreen;
+    color: black;
+
 }
 
 #history {
-    color: DarkGreen;
+    color: black;
     font-size: 150%;
     clear: right;
     float: right;
@@ -153,9 +153,8 @@ body{
 }
 
 #details{
-font-size: 150%;
-margin: auto;
-  width: 400%;
+font-size: 100;
+margin: auto; 
   padding: 30px;
   text-align: center;
 }
