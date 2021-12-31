@@ -33,6 +33,24 @@ This page will allow users to contact us if they are interested about the museum
 
 ## Testing 
 
+### responsive tool
+    I used Am I Responsive to make sure all my pages are working on any device
+    (http://ami.responsivedesign.is/)
+
+#### W3C Validator Tools
+     I used W3C validator to see if there are any errors with my coding 
+     (https://validator.w3.org/#validate_by_input+with_options)
+
+     I had a error where i put a space beetween contact us and it notified me about it and i changed it by puttin a _ between contact_us 
+
+     I had a error where for all my heading tags i gave it all a <h1> so i changes that to <h2> and for the others i changes it to a diiferent number.
+
+
+###### W3C CSS Validation
+     I used this tool to make sure my css style did not have any errors 
+     (https://jigsaw.w3.org/css-validator/)
+
+     
 
 
 
