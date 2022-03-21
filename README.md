@@ -1,8 +1,9 @@
 # Dubai Museum
  
- A live website can be found [here] (https://jervisnoronha.github.io/Dubai-new-full-temeplate/)
+ A live website can be found [here]  (https://jervisnoronha.github.io/Dubai-new-full-temeplate/)
 
-![website preview](assets/images/Screenshots1.jpg)
+![website preview](assets/images/dubai_front.png)
+
 
 
 This is website talks about the history of Dubai and what it was back in the days. This website is targeted towards people who want to learn and understand the history. Visitors will get acquainted with the different environments of urban and rural lives in Dubai.
