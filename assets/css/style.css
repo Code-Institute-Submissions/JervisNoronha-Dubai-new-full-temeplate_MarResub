@@ -8,7 +8,7 @@
 
 body{
     font-family: Anton, sans-serif;
-    font-weight: 300;
+    font-weight: 300%;
     color: #3a3a3a;
 }
 
@@ -84,7 +84,6 @@ animation-fill-mode: forwards;
 /* Information*/
 
 #information{
-    height: 600px;
     text-align: center;
     font-size: 200%;
     color: black;
@@ -112,6 +111,7 @@ footer{
 
 #photos {
     clear: both;
+    width: 200%;
 }
 
 #photos > img {
