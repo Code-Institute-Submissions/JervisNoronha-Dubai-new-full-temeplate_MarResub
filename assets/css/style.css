@@ -146,7 +146,11 @@ img{
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    width: 10em
+    width: 10em;
+    font-size: 120%;
+    background: gray;
+
+
 }
 
 #details{
