@@ -115,12 +115,11 @@ footer{
 }
 
 #photos > img {
-width: 100%;
+width: 30%;
 }
 
 
 img{
-    float: left;
     margin: 10px;
     clear: left;
 }
