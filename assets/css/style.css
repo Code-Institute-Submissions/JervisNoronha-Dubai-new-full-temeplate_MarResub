@@ -87,7 +87,7 @@ animation-fill-mode: forwards;
     height: 600px;
     text-align: center;
     font-size: 200%;
-    color: blue;
+    color: black;
 }
 
 /* footer*/
@@ -141,9 +141,7 @@ img{
     padding-left: 10px;
 }
 
-body{
-    background-color: cadetblue;
-}
+
 
 .form_layout{
     text-align: center;
