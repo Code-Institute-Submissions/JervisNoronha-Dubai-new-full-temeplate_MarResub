@@ -10,27 +10,38 @@ This is website talks about the history of Dubai and what it was back in the day
 
 
 ### Features 
-
-Navigation bar
 ![preview](assets/images/dubai_navbar.png)
+
+
+Navigation bar 
 On all four pages there will be navigation bar which include home, gallery, history and contact us page. This section is important because it allows users to quickly visit any section within the site and also allows the users to find the content they’re looking for much faster.  
+
+![preview](assets/images/hero_image.webp)
 
 Hero-image
 On the main page there will be a hero-image of the Dubai museum. This image has a catching animation of the image zooming in so that it can grab the visitors attention. 
 
+![preview](assets/images/dubai_infopage.png)
+
 Information 
 The information section will allow users to see the benefits of visiting the museum 
+
+![preview](assets/images/dubai_socialmedia.png)
 
 Social media
 There will be social media links to all pages on the website. The links will open onto a new tab which will then allow users to reach, nurture and engage.
 
-
+![preview](assets/images/dubai_gallery_page.png)
 
 Gallery 
 The photos in the gallery will deliver the visitors information of what is in the museum. This is help to capture the attention of the visitors.
 
+![preview](assets/images/dubai_history_page.png)
+
 History 
 This page talks about the history of the museum and also the most famous things in the museum. This will engage the visitors and teach them a lot about the history and also what each monuments do and what they did back in the days.
+
+![preview](assets/images/dubai_contact_page.png)
 
 Contact us  
 This page will allow users to contact us if they are interested about the museum and if they need help finding the museum , if they are then they will have to put in their first name, last name, email address and your message. 
