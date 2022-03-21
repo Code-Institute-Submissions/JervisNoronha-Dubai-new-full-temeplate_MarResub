@@ -53,6 +53,21 @@ This page will allow users to contact us if they are interested about the museum
     I used Am I Responsive to make sure all my pages are working on any device
     (http://ami.responsivedesign.is/)
 
+
+###### W3C CSS Validation
+     I used this tool to make sure my css style did not have any errors 
+     (https://jigsaw.w3.org/css-validator/)
+
+     ![preview](assets/images/dubai_css.png)
+     
+
+
+
+
+
+
+
+
 #### W3C Validator Tools
      I used W3C validator to see if there are any errors with my coding 
      (https://validator.w3.org/#validate_by_input+with_options)
@@ -62,9 +77,7 @@ This page will allow users to contact us if they are interested about the museum
      I had a error where for all my heading tags i gave it all a <h1> so i changes that to <h2> and for the others i changes it to a diiferent number.
 
 
-###### W3C CSS Validation
-     I used this tool to make sure my css style did not have any errors 
-     (https://jigsaw.w3.org/css-validator/)
+
 
 ##### Credits
 The text from the home page was taken from tripadvisor
