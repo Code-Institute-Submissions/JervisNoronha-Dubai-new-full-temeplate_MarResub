@@ -9,8 +9,10 @@
 This is website talks about the history of Dubai and what it was back in the days. This website is targeted towards people who want to learn and understand the history. Visitors will get acquainted with the different environments of urban and rural lives in Dubai.
 
 
-Features 
+### Features 
+
 Navigation bar
+![preview](assets/images/dubai_navbar.png)
 On all four pages there will be navigation bar which include home, gallery, history and contact us page. This section is important because it allows users to quickly visit any section within the site and also allows the users to find the content they’re looking for much faster.  
 
 Hero-image
