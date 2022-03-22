@@ -55,10 +55,10 @@ This page will allow users to contact us if they are interested about the museum
 
 
 ###### W3C CSS Validation
-     I used this tool to make sure my css style did not have any errors 
+I used this tool to make sure my css style did not have any errors 
      (https://jigsaw.w3.org/css-validator/)
 
-     ![preview](assets/images/dubai_css.png)
+![preview](assets/images/dubai_css.png)
      
 
 
