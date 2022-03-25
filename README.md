@@ -73,6 +73,12 @@ I used this tool to make sure my css style did not have any errors
 ![preview](assets/images/history.png)
 ![preview](assets/images/index.png)
 
+###### Deployment 
+1) Sign up to Github
+2) Create a new repository
+3) Put a repository name 
+4) Click on create repository
+
      
 
 
