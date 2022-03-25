@@ -68,6 +68,11 @@ I used this tool to make sure my css style did not have any errors
  I used W3C validator to see if there are any errors with my coding 
      (https://validator.w3.org/#validate_by_input+with_options)
 
+![preview](assets/images/Contact.png)
+![preview](assets/images/gallery.png)
+![preview](assets/images/history.png)
+![preview](assets/images/index.png)
+
      
 
 
